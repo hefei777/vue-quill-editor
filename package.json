@@ -3,7 +3,7 @@
   "description": "Quill editor component for Vue",
   "version": "3.0.6",
   "license": "MIT",
-  "author": "Surmon",
+  "author": "yitang",
   "keywords": [
     "vue-quill-editor",
     "vue quill",
@@ -12,10 +12,9 @@
     "vue web editor",
     "vue editor"
   ],
-  "homepage": "https://github.surmon.me/vue-quill-editor",
   "repository": {
     "type": "git",
-    "url": "https://github.com/surmon-china/vue-quill-editor.git"
+    "url": "git+https://github.com/hefei777/vue-quill-editor"
   },
   "files": [
     "CHANGELOG.md",
