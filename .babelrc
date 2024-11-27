@@ -1,5 +1,5 @@
 {
-  "presets": ["es2015", "stage-2", "@babel/preset-env"],
+  "presets": ["@babel/preset-env"],
   "plugins": [
     "transform-es2015-destructuring",
     "transform-object-rest-spread"
